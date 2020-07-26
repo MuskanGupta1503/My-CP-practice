@@ -1,0 +1,6 @@
+MCM and printing
+Evalute expresion to true/Boolean
+Min/Max value of an Expression
+Palindrome Patitioning
+Scramble String
+Egg Dropping Problem
