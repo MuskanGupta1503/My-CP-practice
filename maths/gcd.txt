@@ -1,0 +1,15 @@
+8
+10-15
+17-19
+21-28
+31
+33
+36
+34-IMPORTANT Program to find gcd using iteration
+39
+42-43
+47-48
+50-51
+
+EULER
+23

@@ -1,0 +1,24 @@
+Arthimetric Operation
+
+Character Counting
+2
+3
+4
+
+
+
+
+
+Subsequence and Substring
+Reverse and Rotation
+Sorting and searching
+Occurence Based
+Spacing
+Anagram
+Palindrome
+Binary String
+Lexicographic 
+Pattern Seaching
+Split String
+Balance Parentheses
+Conversion

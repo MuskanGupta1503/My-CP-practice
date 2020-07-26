@@ -1,0 +1,5 @@
+spoj-HOLI
+divisible subarray-CB
+gray code-codechef
+
+

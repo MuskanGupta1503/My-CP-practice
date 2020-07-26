@@ -1,0 +1,18 @@
+LEGENDRE'S FORMULA IS IMPORTANT
+Max value for while factorial can be calculated is 20
+2
+5
+10
+11
+12
+13
+16
+22
+25
+24-KRISHNAAMURTHY NUMBERS
+26
+28
+29
+31
+32-33
+34

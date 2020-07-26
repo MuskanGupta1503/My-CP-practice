@@ -1,0 +1,27 @@
+18-revise
+22-revise
+23
+32
+39
+41
+45
+46
+47
+48,49
+52
+56
+59
+71
+74
+75
+83
+99
+97
+reverse -(25-31) 36,58
+mergesort(84-91) 51,53,68
+bubblesort,insertion-sort(57)
+big integer problems:-(+-*/)(37,42,69,81
+levelled linked list-(41,44,67
+loop-(72,
+
+C:\Program Files (x86)\ThunderSoft\Free Screen Recorder

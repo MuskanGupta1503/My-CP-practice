@@ -1,0 +1,55 @@
+TRAVERSALS
+1)pre,post,inorder
+2)level order and it variations
+3)diagnol ([S:-6,])
+4)vertical
+
+CHECKING AND PRINTING[CP](18,24,38,otherpage-32)
+4-try again
+5,left view,right view
+6-try again
+10-try again,easy
+11
+18-difficult
+24
+25
+27-easy
+28-easy,try
+33
+30
+otherpage
+38
+37
+
+CONSTRUCTION & CONVERSION
+4s
+26
+33
+34
+
+SUMMATION[S](28,9,12
+3-4
+8-nice exmple of references
+9-10
+14-16
+25
+28
+31-didn't understood
+
+
+IMPORTANT QUESTIONS
+get level of node
+views-top,bottom,left,right
+diagnol,vertical, level traversals
+root to leaf paths
+create tree from traversals
+lowest common ancestor
+serialize and deserialize
+
+
+(LEVEL VARIATIONS-max width,max level sum,sorted,VIEWS,DIAGNOL,VERTICAL)
+
+MISC
+1
+https://www.geeksforgeeks.org/print-leftmost-and-rightmost-nodes-of-a-binary-tree/
+https://www.geeksforgeeks.org/given-a-binary-tree-how-do-you-remove-all-the-half-nodes/
