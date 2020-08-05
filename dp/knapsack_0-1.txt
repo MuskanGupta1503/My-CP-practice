@@ -1,4 +1,4 @@
-Subet sum Problem
+Subet sum Problem 10-12,15
 Equal Sum partition
 count of subset sum with given sum
 minimum subset sum difference
