@@ -4,6 +4,21 @@ TRAVERSALS
 3)diagnol ([S:-6,])
 4)vertical
 
+
+IMPORTANT QUESTIONS
+get level of node
+views-top,bottom,left,right
+diagnol,vertical, level traversals
+root to leaf paths
+create tree from traversals
+lowest common ancestor([M-77])
+serialize and deserialize
+
+
+(LEVEL VARIATIONS-max width,max level sum,sorted,VIEWS,DIAGNOL,VERTICAL)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+
 CHECKING AND PRINTING[CP](18,24,38,otherpage-32)
 4-try again
 5,left view,right view
@@ -37,19 +52,15 @@ SUMMATION[S](28,9,12
 31-didn't understood
 
 
-IMPORTANT QUESTIONS
-get level of node
-views-top,bottom,left,right
-diagnol,vertical, level traversals
-root to leaf paths
-create tree from traversals
-lowest common ancestor
-serialize and deserialize
-
-
-(LEVEL VARIATIONS-max width,max level sum,sorted,VIEWS,DIAGNOL,VERTICAL)
-
 MISC
 1
 https://www.geeksforgeeks.org/print-leftmost-and-rightmost-nodes-of-a-binary-tree/
 https://www.geeksforgeeks.org/given-a-binary-tree-how-do-you-remove-all-the-half-nodes/
+I know:-
+10-13
+20-21
+36-42
+46-51
+53-54
+75-76
+79-83
