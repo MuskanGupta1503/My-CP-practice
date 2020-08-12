@@ -59,8 +59,9 @@ https://www.geeksforgeeks.org/given-a-binary-tree-how-do-you-remove-all-the-half
 I know:-
 10-13
 20-21
-36-42
+33-42
 46-51
 53-54
+57
 75-76
 79-83
