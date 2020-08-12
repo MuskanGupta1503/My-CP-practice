@@ -1,0 +1,23 @@
+strings
+trees,bst,heaps
+dp
+maths
+
+Easy topics
+linkedlist,stack,queues
+Greedy,Divide & conquer
+
+Backtracking
+
+Medium Topics
+Binary Search
+Range Queries
+Graphs
+Bit Manipulation
+
+Misc
+Optimisation problems and misc in arrays
+matrix
+hashing
+
+

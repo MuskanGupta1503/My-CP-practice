@@ -1,0 +1,2 @@
+63-Number of paths with exactly k coins
+174-Ways to arrange Balls such that adjacent balls are of different types 

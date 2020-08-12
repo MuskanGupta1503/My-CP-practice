@@ -4,3 +4,6 @@ count of subset sum with given sum
 minimum subset sum difference
 target sum
 count of subset sum with given sum
+
+12-Printing Knapsack(Intermediate:-11)
+23,24-Print equal sumsets of array

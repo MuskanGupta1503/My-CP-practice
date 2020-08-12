@@ -1,0 +1,11 @@
+Intermediate 
+
+8) Floyd Warshall Algo
+9) Bellman-Ford Algo
+17) Vertex Cover
+26) Travelling Salesman Problem 
+83) Count all possible walks from a source to a destination with exactly k edges
+162)Prefix Sum of Matrix (Or 2D Array)
+163)Multistage Graph (Shortest Path)
+174)Shortest path with exactly k edges in a directed and weighted graph
+
