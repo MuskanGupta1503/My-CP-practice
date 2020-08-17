@@ -1,2 +1,4 @@
 63-Number of paths with exactly k coins
+69-Count no of paths with at-most K turns
+80-Count binary strings with k times appearing adjacent 2 set bits
 174-Ways to arrange Balls such that adjacent balls are of different types 

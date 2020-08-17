@@ -7,7 +7,7 @@ TRAVERSALS
 
 IMPORTANT QUESTIONS
 get level of node
-views-top,bottom,left,right
+views-top,bottom,left,right([CP-5])
 diagnol,vertical, level traversals
 root to leaf paths
 create tree from traversals

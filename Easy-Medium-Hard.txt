@@ -6,7 +6,6 @@ maths
 Easy topics
 linkedlist,stack,queues
 Greedy,Divide & conquer
-
 Backtracking
 
 Medium Topics
