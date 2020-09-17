@@ -6,4 +6,5 @@
 47
 
 Intermediate
+104-Finding the maximum square sub-matrix with all equal elements
 117

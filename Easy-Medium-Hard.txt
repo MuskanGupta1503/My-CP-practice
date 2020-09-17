@@ -14,6 +14,7 @@ Range Queries
 Graphs
 Bit Manipulation
 
+
 Misc
 Optimisation problems and misc in arrays
 matrix

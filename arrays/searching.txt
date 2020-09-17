@@ -1,10 +1,24 @@
-2
+Aditya verma videos
 3,15
 4
-8
-12
 13
 16
 17
-18
+19
+24
+26
+27
+32
+35-heap
+36-Easy, Just understand all optimisations
+37-nice
+38
+40-41
+33,39,45-largest 3 elements
+42
+46-49
+50
+53
+58
+59
 
