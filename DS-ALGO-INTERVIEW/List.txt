@@ -1,0 +1,38 @@
+Trees
+1)get level of node
+2)all views
+3)root to leaf paths
+4)create tree from traversals
+5)LCA
+6)serialize and deseralize
+7)traversals-diagnol and vertical
+8)Convert to DLL
+9)isomorphism-(easy but still revise)
+10)Connect nodes at same level
+
+LinkedList
+1)All sortings
+2)big integer problems
+3)Circular LL and loops
+4)Reverse problems
+
+Stack and Queues
+1)next smaller,greater,histogram and related
+2)recursion based like reversing,sorting
+3)getMin special stack, stack permutations, Merge interval, interleave the first half of queue,  
+
+BST
+1)Basic order stats
+2)Dead End
+3)Populate
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Arrays
+1)Rain water
+2)max and min ele in array
+3)kth max min
+4)Match specific pattern
+5)Merge K sorted arrays
+6)URL shortener
+
+Searching-Sorting
+1)find majority element

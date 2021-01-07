@@ -1,0 +1,19 @@
+Celebrity Problem
+Element that occurs once where every element occurs thrice
+String Matching/ Anagram Substring search
+Convert a given number to words
+Excel sheet:- column number to alpha and viceversa
+Matrix Chain Multiplication/ Boolean Parenthesis
+Longest even length Substring
+A simple Fraction
+Big Integer Linked List Problems
+Clone a Linked List with next and random pointer
+find repeated and missing number
+Connect Nodes at same level
+Program to validate and IP address
+Two nodes of a BST are swapped, correct the BST
+Topological Sort
+2 elements whose sum is closet to 0
+boundary traversal of tree
+Roman to integer and viceversa
+Match Specific Pattern

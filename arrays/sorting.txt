@@ -1,5 +1,4 @@
 3
-4
 5
 7
 10
@@ -8,7 +7,6 @@
 14
 16
 17
-18
 19
 22
 inversion count-43,3,38,73
@@ -27,8 +25,6 @@ OTHER SORTING TECHNIQUES
 2)BUCKET-61
 3)COUNTING-40
 4)PANCAKE SORTING-10,
-
-
 
 
 

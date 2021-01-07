@@ -3,7 +3,6 @@
 23
 32
 39
-41
 45
 46
 47
@@ -25,3 +24,12 @@ levelled linked list-(41,44,67
 loop-(72,
 
 C:\Program Files (x86)\ThunderSoft\Free Screen Recorder
+
+
+
+LIST
+add 2 numbers
+find starting point in ll/ break a cycle
+clone a linkedlist
+quicksort
+sort 0,1,2
