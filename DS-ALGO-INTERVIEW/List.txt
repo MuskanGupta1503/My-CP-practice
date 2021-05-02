@@ -33,6 +33,45 @@ Arrays
 4)Match specific pattern
 5)Merge K sorted arrays
 6)URL shortener
+7)Pancake Sorting
+8)Shortest Subarray to be Removed to Make Array Sorted
+9)Integer to words
+10)Tic tac toe
+11)Roman to int and viceversa
+12)Max Product Subarray
+13)Zero sum subarray
+14)Stock problems
+15)Largest number formed from an array
+16)Celebrity Problem
+17)row with max 1s
+18)Stock Span Problem
+19)Find repeated and missing/ smallest positive missing number
+20)Surpaser Count
+21)Max sum in configuration
+22)Sum of Middle elements of 2 sorted arrays
+23)Possible groups
 
+TODO in arrays
+love babbar questions
+interview bit questions
+sliding window and bitonic by aditya verma(count anagrams)(longest subarray with sum k)
+-----------------------------------------------------------------------------------------
+next smallest palindrome
+Container with most water
+Top k numbers in stream
+Smallest range in k list
+longest AP
+Maximum Index
+Complement
+Maximum Tip Calculator
+Smallest Distinct Window
+Max Subarray
+Magic Triplets
+Magnet Array Problem
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Searching-Sorting
 1)find majority element
+
+
+DP
+Revise Aditya verma playlist once

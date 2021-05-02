@@ -1,0 +1,60 @@
+^^^Assembly Line SchedulingProblem[Practice here: https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/]
+^^^Find maximum length Snake sequence[Practice here: https://www.geeksforgeeks.org/find-maximum-length-snake-sequence/]
+^^^Count all subsequences having product less than K[Practice here: https://www.geeksforgeeks.org/count-subsequences-product-less-k/]
+^^^Maximum subsequence sum such that no three are consecutive[Practice here: https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/]
+^^^Largest Independent Set Problem[Practice here: https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/]
+^^^Coin game winner where every player has three choices[Practice here: https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/]
+^^^Find if string is K-Palindrome or not[Practice here: https://practice.geeksforgeeks.org/problems/k-palindrome/1]
+^^^Number of paths with exactly k coins [https://www.geeksforgeeks.org/number-of-paths-with-exactly-k-coins/]
+Tile Stacking Problem[Practice here: https://www.geeksforgeeks.org/tile-stacking-problem/]
+Number of ordered pairs such that (Ai & Aj) = 0[Practice here: https://www.geeksforgeeks.org/number-ordered-pairs-ai-aj-0/]
+The painter’s partition problem[Practice here: https://practice.geeksforgeeks.org/problems/allocate-minimum-number-of-pages/0]
+Maximum sum rectangle in a 2D matrix[Practice here: https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0]
+Maximum weight transformation of a given string[Practice here: https://www.geeksforgeeks.org/maximum-weight-transformation-of-a-given-string/]
+Maximum Product Cutting[Practice here: https://www.geeksforgeeks.org/maximum-product-cutting-dp-36/
+Maximum difference between two elements such that larger element appears after the smaller number [https://www.geeksforgeeks.org/maximum-difference-between-two-elements/]
+Total Possible solutions to linear equation of k variables
+[https://www.geeksforgeeks.org/find-the-longest-path-in-a-matrix-with-given-constraints/]
+Dice Throw
+
+
+
+[https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/]
+[https://www.geeksforgeeks.org/two-water-jug-puzzle/]
+[https://www.geeksforgeeks.org/largest-sum-subarray-least-k-numbers/]
+[https://www.geeksforgeeks.org/minimum-sum-path-3-d-array/]
+[https://www.geeksforgeeks.org/remove-minimum-elements-either-side-2min-max/]
+[https://www.geeksforgeeks.org/length-of-the-longest-valid-substring/]
+[https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/]
+[https://www.geeksforgeeks.org/longest-even-length-substring-sum-first-second-half/]
+[https://www.geeksforgeeks.org/bitmasking-and-dynamic-programming-set-1-count-ways-to-assign-unique-cap-to-every-person/]
+[https://www.geeksforgeeks.org/find-minimum-adjustment-cost-of-an-array/]
+
+
+
+
+Find the probability that a person is alive after taking `n` steps on an island [https://www.techiedelight.com/probability-alive-after-taking-n-steps-island/]
+[https://www.techiedelight.com/collect-maximum-points-matrix-satisfying-given-constraints/]
+[https://www.techiedelight.com/3-partition-problem/]
+[https://www.techiedelight.com/minimum-sum-partition-problem/]
+[https://www.techiedelight.com/count-number-times-pattern-appears-given-string-subsequence/]
+
+
+
+----------MCM forms---------------
+Maximize the value of expression
+
+---------2D matrix variations-------
+
+---------BUY AND SELL----------
+
+----------LIS forms------------------
+^^^^Longest alternating subsequence[Practice here: https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0]
+^^^^Longest subsequence such that difference between adjacent is one[Practice here: https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one/0]
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+^^^^https://leetcode.com/problems/russian-doll-envelopes/
+^^^^https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
+
+https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-Leetcode
+https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise
+https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months

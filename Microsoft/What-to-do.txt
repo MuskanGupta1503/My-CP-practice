@@ -1,3 +1,0 @@
-1) practice questions from GFG and InterviewBit
-2) 450 questions
-2) practice some arrays questions
